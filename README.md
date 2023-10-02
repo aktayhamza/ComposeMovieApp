@@ -11,6 +11,14 @@ Movie App is an Android application that lists movies from the OMDB API, allows 
 - Asynchronous data processing using Flow
 - Create the user interface using Jetpack Compose
 
+## Technologies Used
+Kotlin
+Jetpack Compose
+Hilt Dependency Injection
+Kotlin Flow
+Clean Architecture
+Retrofit
+
 ## Installation
 
 To run the application in your local development environment, follow these steps:
@@ -19,13 +27,5 @@ To run the application in your local development environment, follow these steps
 
 ```properties
 OMDB_API_KEY=YOUR_API_KEY
-
-## Technologies Used
-Kotlin
-Jetpack Compose
-Hilt Dependency Injection
-Kotlin Flow
-Clean Architecture
-Retrofit
 
 
