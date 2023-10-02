@@ -2,9 +2,11 @@
 
 ## Ekran Görüntüleri
 
-![Ana Ekran][url=https://hizliresim.com/ie427c6][img]https://i.hizliresim.com/ie427c6.png[/img][/url]
+## Ekran Görüntüleri
 
-![Detay Ekran][url=https://hizliresim.com/qay1jgo][img]https://i.hizliresim.com/qay1jgo.png[/img][/url]
+![Ana Ekran](screenshots/ekrangoruntusu1.png)
+
+![Detay Ekran](https://hizliresim.com/qay1jgo)
 
 Movie App is an Android application that lists movies from the OMDB API, allows you to perform movie searches, and displays movie details. The app is built following Modern Android Development (Clean Architecture + Flow + Compose) principles.
 
