@@ -4,7 +4,7 @@
 
 ## Ekran Görüntüleri
 
-![Ana Ekran](screenshots/ekrangoruntusu1.png)
+![Ana Ekran]([url=https://hizliresim.com/qay1jgo][img]https://i.hizliresim.com/qay1jgo.png[/img][/url])
 
 ![Detay Ekran]https://hizliresim.com/qay1jgo
 
