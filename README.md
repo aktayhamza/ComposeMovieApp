@@ -1,13 +1,5 @@
 # ComposeMovieApp
 
-## Ekran Görüntüleri
-
-## Ekran Görüntüleri
-
-![Ana Ekran]([url=https://hizliresim.com/qay1jgo][img]https://i.hizliresim.com/qay1jgo.png[/img][/url])
-
-![Detay Ekran]https://hizliresim.com/qay1jgo
-
 Movie App is an Android application that lists movies from the OMDB API, allows you to perform movie searches, and displays movie details. The app is built following Modern Android Development (Clean Architecture + Flow + Compose) principles.
 
 ## Features
