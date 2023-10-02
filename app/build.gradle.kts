@@ -86,4 +86,6 @@ dependencies {
     implementation("com.airbnb.android:lottie:6.1.0")
 
     implementation("androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2")
+
+    implementation ("io.coil-kt:coil-compose:1.3.2")
 }
